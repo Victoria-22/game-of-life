@@ -1,0 +1,35 @@
+.game-description {
+    background-color: beige;
+    border: solid 1px black;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+h1 {
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 45px;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 5px;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    margin-left: 5px;
+
+}
+
+ul {
+    color: darkblue;
+    font-family: "Times New Roman";
+    font-size: 23px;
+    list-style: square;
+}
+
+ul li:hover {
+    color: red;
+}

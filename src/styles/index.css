@@ -1,0 +1,9 @@
+@import 'about.css';
+
+body {
+  background-color: #fefaff;
+}
+
+.buttons {
+  margin-left: 20px;
+}
